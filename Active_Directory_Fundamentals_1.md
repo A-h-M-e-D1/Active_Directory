@@ -102,5 +102,3 @@ Understanding each feature of Active Directory is critical before designing an i
 - **Computer**: `cn=PC1,ou=Pre-Sales,ou=Sales,dc=mycorp,dc=com`
 
 ---
-
-> **Note:** User, group, and computer objects can be containers but are usually not represented as such in diagrams.
