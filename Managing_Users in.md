@@ -34,7 +34,7 @@ Give **Phillip** (IT support) the ability to reset passwords in the **Sales**, *
 
 #### 🛠️ Steps to Delegate Control:
 1. Right-click the **Sales OU** > Select **"Delegate Control"**.
-2. Add the user **Phillip** (use "Check Names" to verify).
+2. Add the user (use "Check Names" to verify).
 3. Select **"Reset user passwords and force password change at next logon"**.
 4. Click **Next** > **Finish**.
 
