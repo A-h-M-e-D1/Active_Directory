@@ -21,7 +21,6 @@ Active Directory provides both **authentication** and **authorization** services
 ---
 #  Active Directory Structure
 
-##  Overview
 
 - **Active Directory** (AD) is built using a **hierarchical tree structure**.
 - At the very top, we have a **Forest**.
