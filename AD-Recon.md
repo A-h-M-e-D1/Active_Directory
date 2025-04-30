@@ -42,7 +42,7 @@
 - Identify VLANs or network segmentation
 - Find potential pivot points
 
-### 🛠️ Tools & Examples
+###  Tools & Examples
 - **arp-scan**:
   ```bash
   arp-scan --interface=eth0 <target-ip>/24
@@ -64,7 +64,7 @@
 - Discover network layout, routers, firewalls
 - Detect if AD is on the same network
 
-### 🛠️ Tools & Examples
+###  Tools & Examples
 - **traceroute**:
   ```bash
   traceroute <target-ip>
