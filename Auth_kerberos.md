@@ -69,7 +69,7 @@ When the user wants to access `\\fileserver\share`, they send:
 
 ---
 
-## 🛡️How Can Prevent These Attacks
+## How Can Prevent These Attacks
 
 -  Regularly rotate the **krbtgt** account password (twice in succession).
 -  Enable **Account Lockout Policies** to detect brute-force attempts.
