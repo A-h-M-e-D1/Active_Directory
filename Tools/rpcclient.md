@@ -61,5 +61,3 @@ rpcclient -U 'username%password' <target_ip>
 | `samlookupnames domain <username>` | Extract RID of a specific user |
 
 ---
-
-> These commands are extremely useful for internal enumeration during an Active Directory penetration test.
