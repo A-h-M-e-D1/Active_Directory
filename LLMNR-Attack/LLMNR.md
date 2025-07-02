@@ -26,7 +26,7 @@ When a user requests a named resource (e.g., \\fileserver), the system follows t
 - When a victim mistypes a name (e.g., \\fielserver), the attacker **spoofs** the response.
 - The victim unknowingly **sends authentication data** (username + **NTLMv2 hash**) to the attacker.
 - This hash can later be **cracked offline** using tools like `hashcat` or `john`.
-
+> ![](images/LLMNR-Work.png)
 
 
 ---
